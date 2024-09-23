@@ -10,7 +10,7 @@ Is the first attempt to create the X-shaped megaverse. but it didn't work as exp
 
 The file to clear the misplaced polyanets from the map entirely.
 
-- [ModularMap.js](first/ModularMap.js)
+- [modularMap.js](first/modularMap.js)
 
 The Second attempt to create the X-shaped megaverse in a modular code that can be used to create any shape of the map with at least 6x6 coordinates. that was the code that was pushed to the second challenge my mistake.
 
