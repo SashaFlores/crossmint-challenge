@@ -67,7 +67,7 @@ async function main() {
     try {
         const goalMap = await fetchMap(); 
         await resetExpandedMap(goalMap); 
-        console.log('Reset complete. Check the UI for restored 11x11 state manually.');
+        console.log('Reset complete. Check the UI for restoration.');
     } catch (error) {
         console.error('Failed to reset the map:', error.message);
     }
